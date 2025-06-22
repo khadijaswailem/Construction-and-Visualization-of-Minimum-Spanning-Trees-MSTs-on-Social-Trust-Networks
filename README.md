@@ -1,30 +1,30 @@
-# Construction-and-Visualization-of-Minimum-Spanning-Trees-MSTs-on-Social-Trust-Networks
+# Minimum-Spanning-Trees-on-Social-Trust-Networks
 Social Trust Networks are a type of graph that shows trust relationships between individuals or parties in a social platform. Each node represents a user, and each edge represents a trust relationship associated with trust score (weight).
 Trust in online social networks is defined as the confidence users place in one another and the platform, influenced by the perceived reliability, integrity, and authenticity of the communities involved (Kridera & Kanavos, 2024)
 
-Real applications of the Social Trust Networks selected
+##Real applications of the Social Trust Networks selected
 
-1.Reputation Systems
+###1.Reputation Systems
 •	Purpose: Computes scores to calculate a user's reputation.
 In Bitcoin OTC dataset:
 o	users rate each other, creating a wide reputation system which helps prevent fraud and increases safety in anonymous systems.
 ________________________________________
-2.Expert Recommendation & Community Detection
+###2.Expert Recommendation & Community Detection
 •	Purpose: To pinpoint trust-worthy or influential participants of a community.
 In Advogato dataset:
 o	devlopers evaluate each other's skills which allows expert identification and trust-based groups to be formed more easily.
 ________________________________________
-3.Trust-Based Link Prediction
+###3.Trust-Based Link Prediction
 •	Purpose: Predict future connections based on trust paths.
 Epinions dataset:
 o	For increasing user engagement and suggesting new connections as well as potential friends, tutors, or partners.
 ________________________________________
-4. Education & Language Learning Platforms
+###4. Education & Language Learning Platforms
 •	Purpose: Enable peer assessment and trusted learning partners.
 LiveMocha dataset:
 o	users who teach each other mainly relies on trust ratings to choose whom to learn from or choose for help.
 ________________________________________
-5. Research in Human Trust Evolvement
+###5. Research in Human Trust Evolvement
 •	Purpose: Analyze how trust evolves in social systems and how communities start or breakdown.
 Bitcoin Alpha:
 o	Trust decay, forgiveness, and interchange can be modeled using timestamped interactions as seen in Bitcoin Alpha and Bitcoin OTC.
