@@ -24,27 +24,27 @@ Karger's algorithm is for finding a minimum cut in a graph, not directly an MST.
 ### 1.Reputation Systems
 •	Purpose: Computes scores to calculate a user's reputation.
 In Bitcoin OTC dataset:
-o	users rate each other, creating a wide reputation system which helps prevent fraud and increases safety in anonymous systems.
+users rate each other, creating a wide reputation system which helps prevent fraud and increases safety in anonymous systems.
 ________________________________________
 ### 2.Expert Recommendation & Community Detection
 •	Purpose: To pinpoint trust-worthy or influential participants of a community.
 In Advogato dataset:
-o	devlopers evaluate each other's skills which allows expert identification and trust-based groups to be formed more easily.
+devlopers evaluate each other's skills which allows expert identification and trust-based groups to be formed more easily.
 ________________________________________
 ### 3.Trust-Based Link Prediction
 •	Purpose: Predict future connections based on trust paths.
 Epinions dataset:
-o	For increasing user engagement and suggesting new connections as well as potential friends, tutors, or partners.
+For increasing user engagement and suggesting new connections as well as potential friends, tutors, or partners.
 ________________________________________
 ### 4. Education & Language Learning Platforms
 •	Purpose: Enable peer assessment and trusted learning partners.
 LiveMocha dataset:
-o	users who teach each other mainly relies on trust ratings to choose whom to learn from or choose for help.
+users who teach each other mainly relies on trust ratings to choose whom to learn from or choose for help.
 ________________________________________
 ### 5. Research in Human Trust Evolvement
 •	Purpose: Analyze how trust evolves in social systems and how communities start or breakdown.
 Bitcoin Alpha:
-o	Trust decay, forgiveness, and interchange can be modeled using timestamped interactions as seen in Bitcoin Alpha and Bitcoin OTC.
+Trust decay, forgiveness, and interchange can be modeled using timestamped interactions as seen in Bitcoin Alpha and Bitcoin OTC.
 
 
 
